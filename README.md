@@ -1,5 +1,5 @@
 # 💫 Ravi Pratap
-🔭 I’m currently working on Full Stack MERN projects<br>👯 I’m looking to collaborate on  projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Web Development<br>💬 Ask me about - Anything<br>⚡ Fun fact 
+🔭 I’m currently working on Full Stack MERN projects<br>👯 I’m looking to collaborate on  projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Web Development
 
 
 ## 🌐 Socials:
